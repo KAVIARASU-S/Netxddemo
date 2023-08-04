@@ -22,3 +22,4 @@ git push
 git checkout -b <branch name>
 
 you can apply all commands in list #1
+hii
